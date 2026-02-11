@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-k003&label=Profile%20views&color=0e75b6&style=flat" alt="riya-k003" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya-k003" alt="riya-k003" /></a> </p>
+
 - 🔭 I’m currently working on **Smart Retail Analysis**
 
 - 🌱 I’m currently learning **Node.js**
@@ -11,6 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/riya-kashyap-6b8b38295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riya-kashyap-6b8b38295/" height="30" width="40" /></a>
 <a href="https://instagram.com/riya_32005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riya_32005" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/riya003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="riya003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/riya_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riya_003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/riyakashp6h1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/riyakashp6h1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
