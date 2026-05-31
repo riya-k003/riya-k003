@@ -64,13 +64,6 @@
 
 [![Riya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riya-k003&radius=16&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-## 📅 Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/4eb7b3/riya-k003" alt="Riya's Contribution Chart" />
-</div>
 
 ---
 
